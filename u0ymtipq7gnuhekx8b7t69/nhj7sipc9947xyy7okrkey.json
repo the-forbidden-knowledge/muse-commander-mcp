@@ -1,0 +1,3757 @@
+{
+ "novo->antigo": {
+  "identificadores": {
+   "hribp0kwyfakrzu5339ymo": {
+    "old": "make_png",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "def"
+   },
+   "p4zpil4plwzneljvsu8wnh": {
+    "old": "PngValidationTest",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "class"
+   },
+   "m0ptodkqh436122250z6nc": {
+    "old": "_stub",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "method"
+   },
+   "testynke1m1pa51oickije": {
+    "old": "test_png_valido_extraido_com_dimensoes",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "test_method"
+   },
+   "testhwopngk277wnesut4c": {
+    "old": "test_assinatura_corrompida_descartada",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "test_method"
+   },
+   "testjq4ze49mx62jy7e68u": {
+    "old": "test_blob_truncado_descartado",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "test_method"
+   },
+   "testuo6moc3vugdp0grmat": {
+    "old": "test_base64_invalido_descartado",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "test_method"
+   },
+   "testgf9ppyzy9k4hqvdzjw": {
+    "old": "test_ihdr_ausente_descartado",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "test_method"
+   },
+   "testjp6jw5fc3m1sqef4u8": {
+    "old": "test_compress_zlib_roundtrip",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "test_method"
+   },
+   "testypqunfs5yc2dg7ectd": {
+    "old": "test_compress_tipo_invalido_rejeitado_no_schema",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "test_method"
+   },
+   "testvq6nqisente10iaeuk": {
+    "old": "test_compress_tipo_valido_aceito_no_schema",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "test_method"
+   },
+   "jduwq5t885wjmxsw605yas": {
+    "old": "width",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "param"
+   },
+   "xgssc6vjotjsc8kfi3qzt0": {
+    "old": "height",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "param"
+   },
+   "ok8on2i23u3bqwvulcfi81": {
+    "old": "color",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "param"
+   },
+   "gkbo29w9mqr0e6zbljceub": {
+    "old": "b64",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "param"
+   },
+   "o5xiya2l19p1wszrpsgg2y": {
+    "old": "raw",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "qgbzgm3jr7yd1l16elzwn0": {
+    "old": "ihdr",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "y7sq9qiteh9qpbuiqlku8h": {
+    "old": "chunks",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "emt521ug86jey9nlcawleb": {
+    "old": "ctype",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "ib41j8ckbtj1a6tb528v9n": {
+    "old": "data",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "nio5xh9hu5wbjx5tb9w7hi": {
+    "old": "png",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "hyuch7oppsxuvl4z6thz37": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "q2kuenvgo7uh7jiioxh35j": {
+    "old": "png",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "qj5uhig1obwb5deq9itsxi": {
+    "old": "cm",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "nvatiadyy50rx3uqcl4xc3": {
+    "old": "png",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "c1mra14c0tcqw160w9cyjv": {
+    "old": "cm",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "r5erc5j2blvff0cwjm5z2l": {
+    "old": "png",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "pc2iaxgh4pqghmoaoufspj": {
+    "old": "blob",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "tksq9i5llq95gmzlkjhudf": {
+    "old": "png",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "sqc1v87ozwdz7navbnepl9": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "flfar523jxrn8f6jp9lqkn": {
+    "old": "recovered",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "k2qargg4sjxl1nj8en8t98": {
+    "old": "Server",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "class"
+   },
+   "fa6y94qnd8zvxjf0vp36b6": {
+    "old": "McpServerTest",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "class"
+   },
+   "oy07j5lkaumop8rdpk54hc": {
+    "old": "VisualToolsTest",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "class"
+   },
+   "wlxembuljv2qmtbb69rwex": {
+    "old": "rpc",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "method"
+   },
+   "xca160sphuc218o5fwh2gu": {
+    "old": "notify",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "method"
+   },
+   "xne5s4oipf7nf8lj2gktrz": {
+    "old": "call",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "method"
+   },
+   "mz6l4lt2lbfiybgon5ubmd": {
+    "old": "close",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "method"
+   },
+   "testi6048ikehx6r77bse9": {
+    "old": "test_initialize_handshake",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testd04qff59mf3m1f0fgk": {
+    "old": "test_tools_list_has_thirteen_tools",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testl2h9u9mg9va0iz2g93": {
+    "old": "test_write_then_read_roundtrip",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testtlkaxr8zkt4b964drw": {
+    "old": "test_edit_file",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testyjb6jcxc0t4b7erugr": {
+    "old": "test_edit_file_ambiguous_without_replace_all",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testhjcqd3rsieww4ri9nu": {
+    "old": "test_path_escape_rejected",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testfg6bjx80s6ecnd05i6": {
+    "old": "test_directory_flow",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testldttc1pofdsxdywonh": {
+    "old": "test_delete_nonempty_directory_recursive",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testyq49jfjnmgw7erpdki": {
+    "old": "test_defaults_grant_full_access",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testqeoaq9hhe2h7mb3k67": {
+    "old": "test_move_and_info_and_search",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testacgt38toz43rgx92f4": {
+    "old": "test_execute_command_echo",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testjr5u7kgzdp9hf7beqk": {
+    "old": "test_execute_command_dangerous_blocked",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testhjv2hlxk6eq5k9t9d8": {
+    "old": "test_list_processes",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testr5djwg2yuo0ek7h3ww": {
+    "old": "test_kill_process",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testul9o9rf2o0wg2fs02c": {
+    "old": "test_kill_self_rejected",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testf260cuxc5jg9c5tq08": {
+    "old": "test_audit_log_written",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "hs6tzorw91p5xkli6rcsui": {
+    "old": "_make_residue_tree",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "method"
+   },
+   "testt1m1lre96urgz2asuw": {
+    "old": "test_clean_temp_dry_run_only_counts",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testr7ceo30el9fv1qr0u7": {
+    "old": "test_clean_temp_delete_removes_files_keeps_dirs",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testuqc3ojsrqpfttyp34t": {
+    "old": "test_read_file_caps_at_source",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testpvvc0ky0xjbtdv9zs4": {
+    "old": "test_config_cannot_raise_read_limit",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testlna9mbofsyfds2hr4i": {
+    "old": "test_execute_command_truncates_bytes_not_chars",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testlf5uk1kotd6uczxdvl": {
+    "old": "test_search_files_caps_at_hard_max",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testlt1i16uwlfpnuowl8w": {
+    "old": "test_clamp_int_is_the_only_gate",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "c93obobzpb654gyvaglhlo": {
+    "old": "_fts_index",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "method"
+   },
+   "testnz5m85epzfsz8rz1kp": {
+    "old": "test_fts5_index_and_search",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testb66rdityv2u1l2kulh": {
+    "old": "test_fts5_reindex_replaces_deterministically",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testz1i7rm519xtj9zj0yf": {
+    "old": "test_fts5_search_limit_is_capped",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testtnjvpa7yzg5uk8idnz": {
+    "old": "test_fts5_bad_query_is_tool_error",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testfxzs8yrxdl654y9080": {
+    "old": "test_audit_chain_is_valid",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testiqrdpqxwx7wjteopf1": {
+    "old": "test_audit_chain_detects_tampering",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testpp62rdwpifwtexdmlp": {
+    "old": "test_validation_rejects_wrong_type",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testkt4i9y7xkhcbw1bxpa": {
+    "old": "test_baseline_capture_and_clean_check",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testrzx3c4brurzfj5j8jp": {
+    "old": "test_baseline_detects_change_and_addition",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testvqbzik6ikj7ovk63st": {
+    "old": "test_audit_rotation_keeps_chain_valid",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testf4wvfby3bhw6cr8t4c": {
+    "old": "test_read_file_paged_with_offset_and_limit",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testzcrkcv02t52o3hadz9": {
+    "old": "test_read_file_offset_beyond_eof_is_empty",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testjppjtt9ddmmzbwuul6": {
+    "old": "test_read_file_limit_cannot_exceed_max",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testspxj72uo66npvvtduz": {
+    "old": "test_sniff_log_detects_csv_with_timestamps",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testez7md69up0rzuhp3kr": {
+    "old": "test_sniff_log_free_text_has_no_delimiter",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testpx7k9px06si9xtz7af": {
+    "old": "test_unknown_method",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testxhk1fv14wztss0d0l1": {
+    "old": "test_seis_tools_registradas",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testj279op6ny3grpe0egi": {
+    "old": "test_recusa_limpa_fora_do_windows",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "testkj26cg95boxedu8esg": {
+    "old": "test_press_key_invalida",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "test_method"
+   },
+   "pmuocy6cok0p6hh56cijx2": {
+    "old": "workdir",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "param"
+   },
+   "st0xc8gkthu6tvtib5ug30": {
+    "old": "config",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "param"
+   },
+   "hfypvbhkc8lbxvhzse087z": {
+    "old": "method",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "param"
+   },
+   "fdm1tsiuz55nqeg89xr9m5": {
+    "old": "params",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "param"
+   },
+   "olxfdpj7vu10zfn280af5q": {
+    "old": "method",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "param"
+   },
+   "n0v9hd53y60ht87jgv76pv": {
+    "old": "tool",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "param"
+   },
+   "bxylzq8omwu9ad96l0erxr": {
+    "old": "arguments",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "param"
+   },
+   "lv089lkmpge5z4o2zny666": {
+    "old": "name",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "param"
+   },
+   "bi0bhju53vawggujfwgv80": {
+    "old": "cfg_path",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "pcx753danavmb9reorxjt0": {
+    "old": "env",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "n9nyjnp2dioes3o95rjg50": {
+    "old": "msg",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "gze0xh0dya0nakqa9ygu1j": {
+    "old": "line",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "l00ljgmtdrqfoa1we8r66k": {
+    "old": "resp",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "penr8j5amykzf4pz5pkt9n": {
+    "old": "result",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "aib5yi139nkkxvnldh0wjj": {
+    "old": "text",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "rrcejz37yfah43yuda8tl9": {
+    "old": "resp",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "fr2s5frcgcvvwv3k7qqdhz": {
+    "old": "resp",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "cf9oc0ufzjrvmyif60cpzj": {
+    "old": "names",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ni94or9i1qpadk4aelo2te": {
+    "old": "target",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "janno74b7lp887f47pm23s": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "pbtgey59hxl2jd25gk87su": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "qb26ej1tcxex06cfk0hsu8": {
+    "old": "target",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "dtmmimwmt3t633bohkij5o": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "dzbw79fb5ystuz139ra0x0": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "h8njqm1mg6wrg42j8xvhz0": {
+    "old": "_",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "bgd5b57iy2vudg0sc370h0": {
+    "old": "target",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "qdvnkoszfkxhixvti8xfqy": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "uxlknpighpd37x7wtk4epy": {
+    "old": "msg",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "d19ip8bb613rt7wuzo89bq": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "hsuvjzay84ye2xfsog3h7e": {
+    "old": "msg",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "wf7unrx50yfad40n12hkup": {
+    "old": "sub",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "sw71aybjme3oa5k5ij1h1v": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "j652aqx1gnrk51o3ea89wo": {
+    "old": "_",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "spixqc2yyx7qix97g37wxz": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "hpcqlugpva0hwiz2n23if6": {
+    "old": "names",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "qx69qm1bxwfycgkd7qzsku": {
+    "old": "sub",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "pcnn8hb9ck585nb25nf074": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "rbwqhg6c585vokwkuo8lpe": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "rjrziy1qols377r5cbpopj": {
+    "old": "other",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ur8abi2lrzsf9kvszlax9p": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ogl5qgrl335wuabmvf8nwj": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "hiywgkhdp7bsfs99j1lbms": {
+    "old": "msg",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "sj6d9stq7q2d3jnrdgw9rb": {
+    "old": "src",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "w8hkz22fmdv4s8co1rkm4z": {
+    "old": "dst",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "gqw2pl2f4brc3wtzvnxh94": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "dgyy87cvdnvdfptt3qaowq": {
+    "old": "_",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "eylctxac23a1ggqxgoayiy": {
+    "old": "info",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "vmwyfar4nw8fik0ievwnqw": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "dno99uow33cq46b9fpwif3": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "aadysw7uwz3z2opr8ctt6t": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "yx90whfbg5egwu2dv4me1o": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "f0jigi4yhvd68dta9ms5q9": {
+    "old": "msg",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "c2y360w7noqnx5064bp95b": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "lv19y42f7ct1thqgksg7wf": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "hj2wo2gqt8j78yetd8xxd3": {
+    "old": "sleeper",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "cb97up4b8hfroiqtwrbunu": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "zwo9g30ujpjsr0t0m3znfq": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "v9g6hxdrqef9k6om7ejmkr": {
+    "old": "deadline",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "bjpwgs5pnrzotjizpvq999": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "fvgwud4kbns125a7r9zbx3": {
+    "old": "msg",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ve9olt0gfcgf267gsbzev9": {
+    "old": "audit",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "icgdtk7r7625wsija48daa": {
+    "old": "entries",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "yi1h5cw4bwgu3qodvykfd9": {
+    "old": "root",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "j4iy7ay39mhj81q546zdid": {
+    "old": "root",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ube6qmlg7nh3dekbpotz64": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "soxfflcorzl1a70r27m563": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "zrdxjimvu5fvwbax4qhnjw": {
+    "old": "root",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "drdwvmtcpjom1q9eh8lu8v": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "x0b5yla7brqlrhb07grb34": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "cyx5pcolj1sq6guok3otk9": {
+    "old": "big",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ow1e41bj9hbljeym6xry0x": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ewq3vtukm3ms13fw37gpt7": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "x3frb5q6wkpb81ip9ovm9e": {
+    "old": "strict",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "o2uewamev8mc7gpothatzj": {
+    "old": "big",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "xhhtxvoqezqvx725p585pf": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "as4cczb3d3oop4ih8a6chm": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "bzf7hddyst6tp15dscyd6t": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "z21wi7s4ldsve81tghqz8e": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "s1x1b5wvo1k31n54i82mvu": {
+    "old": "i",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "hmg0ta6wdcrilk8lgblqiq": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "chs4urnpj10o6nfwg9l0qk": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "i6f2a3l2u3k2efqefan4jt": {
+    "old": "spec",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "hght4flx9p5ol9v43hkf8s": {
+    "old": "mod",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "d69n5yh86tl7ifmq25fmgi": {
+    "old": "docs",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "r1zysvo9s8iubed7kxe5z6": {
+    "old": "sub",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ucgioq8bmqana4rl1qby7q": {
+    "old": "idx",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "tyxs92tcig3u7g08xhfrmz": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "opvzj29gi4k2stcowajjbx": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "caygh9kq482fmlspiyvjgz": {
+    "old": "docs",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "l2myqv43zomhcm29h8t7c2": {
+    "old": "f",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "tkxnge68z1u89jtd563986": {
+    "old": "idx",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "gzuoi8kom15v2z806nh5mp": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "kvbdsvc7mygqtetk4zuk6a": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "r3ejh7fp45ppednq2w7dur": {
+    "old": "i",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "klegou0vbl9cfdj17h5ry6": {
+    "old": "idx",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "rzzyh6umgl392iyt69m76a": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "j6zasshhjsbgupee9dos7v": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ou04ykbezf832oe0569qja": {
+    "old": "idx",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "nbcoq1qn84uomt4xachx81": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "bymvym6bc1erfsiytvkjar": {
+    "old": "_",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "kcspvibzdz9cbmzgu3yjrk": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ple2w54t2phh625a2ubp9h": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "y2l75ghw5s3gjn9hijul72": {
+    "old": "audit_log",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "lpkh9ijmy56k4d9hvdwzbt": {
+    "old": "fh",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "le0o1dvy0w76mm0mtq566y": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "u0ea3p25gjw3ck7gp208nz": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "gbyd9uhuh84akzeyvbv1l4": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "xai7za03auz9sbelg22pii": {
+    "old": "text",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "uoecv1mhe4cbotfkic17ff": {
+    "old": "tree",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "wm3fy0k3mcwol8mgydo2vh": {
+    "old": "base",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "pri6edscdobuweh8f4gb9i": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "f14wdkcfcfkguqa6mqo8gn": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "rzok10b4sv1c906ga4jefm": {
+    "old": "tree",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "sh7oqqji6mkq7pehawpjca": {
+    "old": "target",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "gxs40ctzr99wbmb4fgobxd": {
+    "old": "base",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "kzrth4izgix9mj03672627": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "hiqoe9t1jdx21kwz2nzn3g": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "htwld3hzfozy38ybtg65bv": {
+    "old": "cfg",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "xq9zwcmvdyznw1pdglvl6u": {
+    "old": "server2",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "z23n2zo1x567z2h9yi1lk8": {
+    "old": "_",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "reuc5k2aj5li3jrrlgqe82": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ugdxk9b7tlqonrt6x494er": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "r2cc54x9zff2a1bd76ucg4": {
+    "old": "rot_dir",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "j0ywbxxue06lwo3t0iexrc": {
+    "old": "backups",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ua6iry59s4ctttfxn54lbv": {
+    "old": "p",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "zc9w9dogqvi02ebzjc6n0c": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "wkl1ax13kr6yqwnhf1k5dw": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "pomfhffn7pvtkucqdvmmk7": {
+    "old": "p",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "jb9eqbeh7orhg2y5f0laqe": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "du1vxpdc15i1jsxjp0jjjq": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "xtescoawagjoz4vnio7yy7": {
+    "old": "p",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ujx4piou2jbsv2d9jn4999": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "bkxbq72sppn4no17ctzbtz": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "fmekgxcileb85te9y0mzf0": {
+    "old": "p",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "y0hdd0o27y2rj5wt95zwmg": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "vn9g0q7kdze429ajccjnti": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "i77cua3oaw29kf2tixhsy7": {
+    "old": "p",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "t2pizdvrswp52303qb8si3": {
+    "old": "err",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "r3u4nv0bs16kp1g82xe3h8": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "gizw561yf0ounfxz5facuq": {
+    "old": "resp",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "qfeyis4121slkbu6dume03": {
+    "old": "names",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "ss7qf7rdwrbvk3rops0yka": {
+    "old": "n",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "q8c8wh8t24ieqg0yk2s5lg": {
+    "old": "casos",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "vob3oljod31ut9fmtuvs6f": {
+    "old": "fn",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "y6480yqjdxdui91k5039ww": {
+    "old": "args",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "p7x3kurwu5l9i5zcoy2uz7": {
+    "old": "cm",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "wt9tii5t1364bqscz1zhxo": {
+    "old": "DecodeBytesTest",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "class"
+   },
+   "testqw1f2wk65u8em4pfa9": {
+    "old": "test_ascii",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "test_method"
+   },
+   "testp7e0jyet09vrjzw56x": {
+    "old": "test_utf8_valido",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "test_method"
+   },
+   "testckvfo6ky4lnp8ot83c": {
+    "old": "test_byte_invalido_em_utf8_nao_quebra",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "test_method"
+   },
+   "testpj4rxx27qpvgtptiv1": {
+    "old": "test_cp1252_decodificado",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "test_method"
+   },
+   "testi6d1cnxwf361apbdv0": {
+    "old": "test_vazio_e_none",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "test_method"
+   },
+   "testgwycln0fb7aouk618t": {
+    "old": "test_str_passa_direto",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "test_method"
+   },
+   "testne5nwcl1h3y806ygsq": {
+    "old": "test_execute_command_com_saida_nao_utf8",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "test_method"
+   },
+   "c4ok3vl7qqgftvx4it1cpz": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "local"
+   },
+   "yq8yvqt1c1f1cim2zqoavy": {
+    "old": "fake",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "local"
+   },
+   "g61nqazmuxs4hep1wgkf17": {
+    "old": "out",
+    "file": "dvfru5d7epa1dcq4iov6hs/s9axlvnq3wa5r17ts3i3rt.py",
+    "kind": "local"
+   },
+   "vg5ix2qswaivxxj1g91dhg": {
+    "old": "find_server_path",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "tef6781iwc5qvwqu3uwter": {
+    "old": "load_tools_server",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "x2gmukbfaoen4t7xlfzzef": {
+    "old": "_decode_bytes",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "g8shk6wlr2g9r1jbkrbhrd": {
+    "old": "tailscale_ipv4",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "lite7znis650th4uyjhzlo": {
+    "old": "resolve_bind_address",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "n8z6379e6qhy6xx14kq24j": {
+    "old": "config_dir",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "bwc0slx16em2ts401bh7mb": {
+    "old": "token_path",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "g2iqtjrehz63pwavrtctvu": {
+    "old": "agent_config_path",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "l6qzhh8lg37slprr6qlspx": {
+    "old": "cmd_install",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "emaiyy9iftsfkf8qy0pfe0": {
+    "old": "load_agent_config",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "cgtcussetvy9xxuf8x4n90": {
+    "old": "load_token",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "n30190c40s24xspsoxlxfz": {
+    "old": "make_handler",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "u6sebo359x76b6gyf3tfsk": {
+    "old": "cmd_run",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "lq86yd54cjujjs4339ia59": {
+    "old": "main",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "def"
+   },
+   "rc31oipvzq9bo2r90q61fv": {
+    "old": "_send",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "method"
+   },
+   "lwj1ywo0mufz8gnl7k1njl": {
+    "old": "_authorized",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "method"
+   },
+   "ao2zxtww5l6wqm8t0qv9i6": {
+    "old": "_require_auth",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "method"
+   },
+   "eeav0ygd57j0tk9xl3wmv6": {
+    "old": "data",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "i1gw0l3z5ggblij52h6oe7": {
+    "old": "bind_arg",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "x0imgxum0xdad7q07c3e8t": {
+    "old": "cfg",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "a1hgd3vvpu23u2r558mo9o": {
+    "old": "force",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "lsb3n2wrmhu10t47palp5z": {
+    "old": "tools",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "lnvf83ldcobibouo715t84": {
+    "old": "token",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "erdvgjsj506pdyxwts465o": {
+    "old": "fmt",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "xgpyz9osec4j9n8cqh5w6r": {
+    "old": "args",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "du7bm2c9uwjh73bqejzwor": {
+    "old": "status",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "tcu8tfe2afrlz5gmqfcthz": {
+    "old": "payload",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "vy1hp2d2io3kw52ke34upg": {
+    "old": "bind",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "ohib62281lemaltdamtrs5": {
+    "old": "port",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "kwif1wx8ucikekjcsuldk5": {
+    "old": "watch_interval",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "mfm183vhsbbfhq8c2v9sw7": {
+    "old": "srv",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "skvqf4aao0dl0w5y1r0or8": {
+    "old": "bound",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "fx9ybska466d8s1fbqeii3": {
+    "old": "argv",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "param"
+   },
+   "z1fflg86ixzbc11laoq4jb": {
+    "old": "candidates",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "ta5wbggdxla2kgkei4slse": {
+    "old": "env",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "l9zlvakaf7bg7vn1lb0xjy": {
+    "old": "here",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "cktfjcuwrfh2r5swfa0cm7": {
+    "old": "c",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "xdknfxaqw65ww8k4q156m8": {
+    "old": "spec",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "ze1aa3elmbscanv7bfzd88": {
+    "old": "module",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "jdi6d09swyq8vl6bxrpgt4": {
+    "old": "enc",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "tbm8n1zum100kh90w4j4ip": {
+    "old": "proc",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "czk6iezmla8i9yc5ufoko8": {
+    "old": "exc",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "thecncg7svqxvwjk4t78mn": {
+    "old": "line",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "pgfruv7d7kyh67zuag4ho4": {
+    "old": "addr",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "f06xwynu1bxa7qpv9oc460": {
+    "old": "d",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "lbhve6zgm6y7zpp2jq6y14": {
+    "old": "tp",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "f6h0oikd84ju78a7clheyf": {
+    "old": "token",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "bcwejblzwwt4cry5kdw6u6": {
+    "old": "cfg",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "wywd1nootmmf42i4tq0v70": {
+    "old": "cfg",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "ntabwmbkkbl8ozoajek82o": {
+    "old": "p",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "w9ja46o0p0y3bb1b3frxcx": {
+    "old": "user",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "c3z8eu908i7z6mqh0fzalh": {
+    "old": "tp",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "oaideisbm3dpx62d7zixow": {
+    "old": "expected",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "dgthpuo8iqczty2zg36cdw": {
+    "old": "auth_failures",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "rbvpu1zckm8o9lnkelqyc0": {
+    "old": "SOFT_LIMIT",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "e4rhlinedkpc4kzxnl0xhe": {
+    "old": "MAX_DELAY",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "d6l609zz8r938vhy7ap1za": {
+    "old": "Handler",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "t65mxxctp3be9gnojplrcx": {
+    "old": "body",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "fwzz2b705ku5uhwey0eeep": {
+    "old": "ip",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "fqp1bdhtkyr7bi05e856co": {
+    "old": "ok",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "awjhvg0dz9hhksh467sdbj": {
+    "old": "n",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "odcgcjf9p7l1boydv5wfxp": {
+    "old": "specs",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "k7py4xdi2nmdpmhfxipnt1": {
+    "old": "length",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "ofhouvur6pofvgt4jc6ca2": {
+    "old": "body",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "zw0zcp016ky63pmlel1798": {
+    "old": "name",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "vgeydaib5sdwn48urb6mic": {
+    "old": "arguments",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "ju6o56aef1zlsv6q5eqyrw": {
+    "old": "handler",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "ji5iy1pmvrudneutq1x6vq": {
+    "old": "exc",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "z7ip45vg3nvcuh5jgohisv": {
+    "old": "out",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "yosrt6oeeg8tz97er4acx3": {
+    "old": "tools",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "vzmhp5zzqjkvb3sh2v0pgl": {
+    "old": "token",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "dfcr5jpwbq1col27p71igy": {
+    "old": "cfg",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "rialb038ktmb7yinxgpnx4": {
+    "old": "tailnet_mode",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "i4vob6al99qcv865o1zfob": {
+    "old": "current",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "y9qzk9xdva9jcxjfd4dzn8": {
+    "old": "server",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "rdnnfl1t831ncz6mkc430q": {
+    "old": "state",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "a6i37zjf7yahz4dth8f14u": {
+    "old": "watch",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "mubva58wzzkjrqhqcrryj9": {
+    "old": "host",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "jxqs8mme1id4xpkln0ieij": {
+    "old": "actual_port",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "tajyn6eu5q6zzqrosel0nu": {
+    "old": "new",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "r57ub631wv8bvel5log2ih": {
+    "old": "parser",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "wskve9igggsov659br7uo9": {
+    "old": "sub",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "phhitsqbe52xt13vv02egs": {
+    "old": "p_install",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "ciowvv9u40mxhuiulwmvms": {
+    "old": "p_run",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "mlfvs0iwxyburrb9lvw1wn": {
+    "old": "args",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "qxik4i1ab3x3aozq5e8hyt": {
+    "old": "ToolError",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "class"
+   },
+   "qeryeatm67mrkq1vend81c": {
+    "old": "config_path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "ipb8ci0xyj9gp7zmvyadbo": {
+    "old": "_filesystem_root",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "ccu987fkkysx5o15pmtwfk": {
+    "old": "load_config",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "rph6t2b4c5a50sh3xwae3e": {
+    "old": "_resolved_bases",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "b43pwr9dw5rarft7wgk814": {
+    "old": "resolve_in_scope",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "luzso6wcodee5z4cdau6ld": {
+    "old": "_clamp_int",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "cr2qu1uhln4t1n5dwt8vdm": {
+    "old": "_effective_read_limit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "am2lity5ynwqh4swnl8y6j": {
+    "old": "_effective_timeout",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "lqj8x429i9m0d4t48mub7p": {
+    "old": "_read_capped",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "tst0zn7l94nw1xzfprnhl7": {
+    "old": "_truncate_utf8",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "dhqoy4u44wcqwe6la8nzn2": {
+    "old": "_decode_bytes",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "w7t27t98j1w1o444e25cpf": {
+    "old": "_cap_results",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "e4ub0mew07jvsx8lh9hp2z": {
+    "old": "_effective_audit_log_max",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "k9bp7xl1f6uwf0568vj7f9": {
+    "old": "_audit_log_path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "hu2gj0v0wzs529srig3rht": {
+    "old": "_audit_tail_hash",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "nmixv3w3l02delmlzv9dhd": {
+    "old": "audit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "xd1htu9eae1ahvxs9ysc8g": {
+    "old": "_rotate_audit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "sousn8nglijzqf4oy81c7t": {
+    "old": "_audit_anchor",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "v03qkdw13q1iedw6mc50ae": {
+    "old": "verify_audit_log",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "f20fqy37s9juxubprzj97g": {
+    "old": "tool_verify_audit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "z0gvqh4wltfh0shi0wxzug": {
+    "old": "_validate_arguments",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "d6c75kdary4s7xrjt1urts": {
+    "old": "validate_tool_arguments",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "u80goaskoj8e27atqr675j": {
+    "old": "_baseline_path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "t2wripfgch6rm5jwkpftpc": {
+    "old": "_hash_file",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "meu3akrj789y6q5shdzp0c": {
+    "old": "_walk_hashes",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "o60pr57idppyajlhs03331": {
+    "old": "_process_names",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "uhuclyznb5kgv29kk8xi9p": {
+    "old": "tool_capture_baseline",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "jse02550lk0v9ge2rtif95": {
+    "old": "tool_check_baseline",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "jwhqegqhu9qycdeuqh8x4x": {
+    "old": "_summarize",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "kgukosv3qx4hz9dh1ihube": {
+    "old": "tool_read_file",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "w73crvscom12eq7emuodf2": {
+    "old": "_count_lines",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "ocf8chj5ypd0f3n70abug8": {
+    "old": "_ident_like",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "reci56s279cy4e66jxzj80": {
+    "old": "tool_sniff_log",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "njy64jgrk8ufmfnw7ig3bo": {
+    "old": "tool_write_file",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "rt63u7hflbfe2rcitimsxh": {
+    "old": "tool_edit_file",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "kbj4z7ltro39incsw6i9i2": {
+    "old": "tool_list_directory",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "y6snldqapfqd73iae0763j": {
+    "old": "tool_create_directory",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "twpn10a1lcv6i9rvle6kvd": {
+    "old": "tool_move_file",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "mxsis6gdgwwruvufztjy2i": {
+    "old": "tool_delete_path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "q6e0u6d0glt3u4e59qzqu4": {
+    "old": "tool_search_files",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "lqrase7ifwnlrsmq3dk693": {
+    "old": "tool_get_file_info",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "quwjwayk9bu8bcrninwy68": {
+    "old": "_check_command_policy",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "kegxr3enidt00yb5gohwjd": {
+    "old": "tool_execute_command",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "af6gpsk4y5qsiz08qp72eg": {
+    "old": "tool_list_processes",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "f8iisatqpaac9llg1qtdqb": {
+    "old": "tool_kill_process",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "okt8w0ruryp6b3ll2cgl9c": {
+    "old": "_default_temp_targets",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "k4unfvmnl37k77vw6ctn7o": {
+    "old": "tool_clean_temp",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "fce4454p0am6plq4kbf3pz": {
+    "old": "_default_index_path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "b9jpx8moj3b6iwezag952y": {
+    "old": "_open_fts",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "lsej6w7hxae3nrpgb0p8fh": {
+    "old": "tool_index_files",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "lrg2ahup7wq18omwzljsdg": {
+    "old": "tool_search_index",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "q6yhh4x5v0b6zh6sv7n6hq": {
+    "old": "_schema",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "bni5amxkwb9r3f1h64u1kg": {
+    "old": "_str",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "s11e7vtjt2uk0b1coynaih": {
+    "old": "_powershell",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "wfyezws77dj2z0go8phfuo": {
+    "old": "_validate_png",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "dq1q6yif7t8ztypfxg6d8w": {
+    "old": "tool_screenshot",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "xj7ibzfp8gvvlj8a8jd8a6": {
+    "old": "tool_ui_elements",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "u4gw5wnckai7pb7b1lqmdl": {
+    "old": "tool_click",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "mddtipxcs9bmnfts1utbdm": {
+    "old": "_sendkeys_escape",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "k1qo56pfok7nnwxdpbh2xt": {
+    "old": "tool_type_text",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "tcamd89fej07tsw6benjyb": {
+    "old": "tool_press_key",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "s9yzkdqnbautmij4n62y3l": {
+    "old": "tool_find_template",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "qs5fhchded1psdr5v3y9bm": {
+    "old": "_result",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "zjze6g5nmlnoe19fydqqh1": {
+    "old": "_error",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "v1v6r8zoyxbfra37iszrvm": {
+    "old": "handle",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "xbmjnvy9k18vmbvbavkonf": {
+    "old": "main",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "def"
+   },
+   "w1qf5oblmaw2vfh0tfbs3q": {
+    "old": "raw_list",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "mo0o1xxu567hpx01ofuscr": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "pi7hhom0vgelmit586ebqr": {
+    "old": "value",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "jew2kgji45p336vd53gy43": {
+    "old": "default",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "dzytl9zhmodgp0z7twekw1": {
+    "old": "hard_max",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "bdk4vml2068pghpgb0dnv7": {
+    "old": "minimum",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "voazajhcidfyekth31dn6f": {
+    "old": "requested",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "jml5jawelpnol1dgy2uuav": {
+    "old": "path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "yhqwygeprd96sr0v8b907y": {
+    "old": "limit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "hbhet1ta86vx46ffj7vdhq": {
+    "old": "offset",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "if1hrkat27v49lcz4v81z9": {
+    "old": "text",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ekvd7g0fqg52czguvlxc8h": {
+    "old": "limit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "cf4gcurwlr7zhb7r4qm44l": {
+    "old": "data",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "oyokhh66dcgkvd5h4d5dq6": {
+    "old": "requested",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "nsziwkh7v1yt2nr5hxienv": {
+    "old": "default",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "pufjzw6rwsf61uv5jq3jbx": {
+    "old": "hard_max",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "jm8704mr4p47wwpr9667p6": {
+    "old": "log",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "vum6412sew89jvvv42szyu": {
+    "old": "tool",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "n102woehk8c3bng8exbj6l": {
+    "old": "summary",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "mdttk1l2qh9nwp02r8lf7r": {
+    "old": "ok",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "peh0ska138pex1967q43h7": {
+    "old": "error",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "xw2rz11tlml84wyp0gtqny": {
+    "old": "log",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ph8fksfpkyh69cixb6y8ip": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "wzvakusf6sf9xn2ztzyv4n": {
+    "old": "input_schema",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ska82kzmzxud66c14doc5p": {
+    "old": "arguments",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ds5vme8ak4qzhpipm36nju": {
+    "old": "name",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "khh12pn0nguibkqsigo98p": {
+    "old": "arguments",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "mgw8uxts6rc9a0s3hp8wd7": {
+    "old": "override",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "gfym7b3om8eonwg00qeqcc": {
+    "old": "path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "p53psn54waip33tut0hxow": {
+    "old": "base",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "vylan2h88e79jo0ncv5az9": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "pxut2als0rl8opzx3l09ln": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "yc749vgpj3gqmt7q0eoi12": {
+    "old": "tool",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "n192fbkdw0irdjfuz5htny": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "xf3ac490hn5pl3tvmimh7k": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "p94en7o7sft056h04vvce4": {
+    "old": "path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "dq6yq0l6nd60yhdhxtkqws": {
+    "old": "fields",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "se3bjtvtq50604w9pndxzy": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ewi4839wavc6b8wpexjj6l": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "nqksfy0sy2hx5aksx2m8ak": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "rjf2pcetcvdlzc9sb0va75": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "yyqk3v7sqgw4c9yxbc2z35": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "nnz992ltluu7t02mwi0agr": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "fpqo523ue035cdw3zfvwvw": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "gi3uxezztl1d5g74gca3br": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "k8cgx6lo4zp1oi80uzgvvp": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "bofjnpxhekrtt4fdi8c2be": {
+    "old": "command",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "oyntzpmrfmjdb3bbt5k0c1": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "zqa2y9hx1chf3th7kpvwt6": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "kl1evbznz81kurt37133xc": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "nr7wc5x492f1it0lipgy4n": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "krmnph32xzz7csnnn85h5z": {
+    "old": "index_path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "kdcov816yq8dhoz2qmyb3a": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ug8zk1ssc5ibbgidq51drr": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "iss62d8zmzd7jnonrr34in": {
+    "old": "props",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "uh3cl7j6tucxn8u069ee2a": {
+    "old": "required",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "e9nx6hsk408vi5zmtw9ghx": {
+    "old": "desc",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ne74bcyvpcm2rp9lw7roar": {
+    "old": "script",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "s8du7a67izes7tezdzapki": {
+    "old": "timeout",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "te6dan6xkzjbrx2sm7ltjx": {
+    "old": "blob",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "w9tjyxcgmthcov7r0gc54i": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "sg2gqwoz4c86yl5ilqqhns": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "f6xzpznfgam2ldltbrajal": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ayu6c78837kukcftncckud": {
+    "old": "text",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "xyplo55r1yhx4m9v0tisy7": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ojsjzfqy4nmz4g2wwfhezz": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "q6diwlp3ywn4ely7zgdjpq": {
+    "old": "args",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "yg8i7hrm7fttrgxeewyro8": {
+    "old": "id_",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "bp7rlrek39l07o81i0o7g4": {
+    "old": "value",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "dxlit16sw7mfmhmkq54usa": {
+    "old": "id_",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "gk5o2bm5jp11rj5a8jd83z": {
+    "old": "code",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "j7cpiyuka4hu2tmbo7kas3": {
+    "old": "message",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "qos7dk1kem9pr8rb0gfkzy": {
+    "old": "msg",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "agd5tdiq1wkiimlh089udz": {
+    "old": "override",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "oz4ex7z5ehqqxncdbd44dr": {
+    "old": "cfg",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "dsm5k9km53aj4z247pujud": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "yokpzetgksx0v9pz2h1daw": {
+    "old": "user",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "bp844183wpblxtwse5pzru": {
+    "old": "out",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "fjmpnjcjdjkzc6eabiixd6": {
+    "old": "d",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "wqlq7qrt895fn4kvuggmtd": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "b3yz1ydakq3l6v5yfcgx00": {
+    "old": "inside",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "vtna1na2vwi1h6cb6t2pgw": {
+    "old": "base",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "z7ugujkgfbzdf324av5pm5": {
+    "old": "blocked",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "k7ngkhklmcq6nph4fqytyp": {
+    "old": "v",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "px8tv25acljvtccu3i4vdz": {
+    "old": "default",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "kdnby02otv5l4go486v2wp": {
+    "old": "fh",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ee7adut3xl1p6p2iktlukc": {
+    "old": "chunk",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "vd2z41cekowsuhziqnq5a0": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "m0c1k276auwf3w6lhb58m3": {
+    "old": "enc",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "be5mateg4wg5y4896envls": {
+    "old": "fh",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ev6vb7findzy8wk59pwhpw": {
+    "old": "size",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "k5x8ftx1pni56rpl5398gl": {
+    "old": "back",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "guktwuuygp4mknkhebz181": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "s7pu4jcc13nwpdnvl3pbpy": {
+    "old": "h",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "dsgsazf3v8sycwkpm15buc": {
+    "old": "entry",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "d0mj0xervfemara8bb966j": {
+    "old": "body",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "wcpjlzp8kjorx5hnu4aoxf": {
+    "old": "log",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "p8shzgugkj57v20urjsc5r": {
+    "old": "prev",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "gzujjjtual302vfgr08zw0": {
+    "old": "digest",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "bh1fhvb4ihe2qn9gk79ngx": {
+    "old": "record",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "u5xrxm5z08kzsej1o5bnha": {
+    "old": "fh",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "kokwdjk5on60xdyvg1rplc": {
+    "old": "stamp",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "q7gc2inzxevlsb5233eosh": {
+    "old": "dest",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "zqiq1sloubw1v4nqhr3ft4": {
+    "old": "anchor",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "nug3liun55e0grkb9iopoc": {
+    "old": "log",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "miyoplfwfchgr3fl5gnrxy": {
+    "old": "lines",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "k04z8v0w4hcyudxm5kj0u7": {
+    "old": "entries",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "z1nbzclaltbzu06504yael": {
+    "old": "legacy",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "h3oxnl8hylym1c86fcymso": {
+    "old": "prev",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "sqxuczwro567l8avyt076t": {
+    "old": "i",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ifzu50ip8egsu702mjvuf8": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "g4l3p9nnped0fqhwiy2v8f": {
+    "old": "rec",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "qzon7b14r04uyrepw5o9c6": {
+    "old": "body_src",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "xji909jx5utb1qwfto5l8c": {
+    "old": "body",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ouz4cxta8i2zbztqm5p4qi": {
+    "old": "expect",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "yxf1izfh2jczbw7q6cvicl": {
+    "old": "schema",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "zr09wwenlnxtf46rotz85w": {
+    "old": "key",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "t02wibc03ddhbgpazbtmms": {
+    "old": "props",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "r0bu6bqzby0wd7u1wz68cy": {
+    "old": "value",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "lw0770d8wb4yf9ai5wybn7": {
+    "old": "spec",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "pbgvxg3seda7vjmx4flazi": {
+    "old": "want",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "o43odwz3l2l4qy7ykalnl1": {
+    "old": "ok",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "jxjx0ee2fsrt3jsxgy4bm9": {
+    "old": "t",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "xbkkd22iek300gjdf0ltlc": {
+    "old": "h",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "t5dk3fvn9o91rt4gl2xxk6": {
+    "old": "fh",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "mbir3loygy6w60crro89f8": {
+    "old": "chunk",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "os613dnpj8l7tel4dlcww1": {
+    "old": "out",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "v4k2iot7hy3rp10uqpudec": {
+    "old": "files",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "t9oqb48qxin570cl9nhtgg": {
+    "old": "f",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "yw3j8317jlrk84zi2skzan": {
+    "old": "names",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "sh283r48owlayxoqslcktm": {
+    "old": "out",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "rxbxqx2nbvlcxun3vwsxmp": {
+    "old": "line",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "cejlw75p3yvqa4uc1xq5op": {
+    "old": "parts",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ys6j2yp1var97mt9jwjkqg": {
+    "old": "roots",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "x23ulenbo3fy4or2ko9u5r": {
+    "old": "resolved",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "nal19w5tjstcaqyci6nw4c": {
+    "old": "files",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "u5gfpky2xi3nqi4s0x5l90": {
+    "old": "r",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "dflum2mtg4zmyoq1bfpvrm": {
+    "old": "baseline",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ygldwdva56k399p45pweb2": {
+    "old": "dest",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "zlpqnkgaky1akgn1ci35ww": {
+    "old": "dest",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "xunhh6byyzllqrxedl4cjv": {
+    "old": "baseline",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "d14xp1r1mou0uuyy89cenm": {
+    "old": "current",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "x6iqmsffg5qnggsd0y1rsl": {
+    "old": "root",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "iohjaq01rq3l9a29eqbk2f": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ts6yftb91vunga5k4itgez": {
+    "old": "old_files",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "j3eklqmkk2ux20r6e07jp7": {
+    "old": "changed",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "jh3966vonpv7vgdybr2lvg": {
+    "old": "missing",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "q47n4xoza1rriepuu1kvt8": {
+    "old": "added",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "vmzl15vy1axn23t9hvig6v": {
+    "old": "current_names",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "lq3p8anjdc6uv2zus1yo8e": {
+    "old": "baseline_names",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "pzbfj4gllgilcvvq43y826": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "dcib9lsr9abju3zxknif46": {
+    "old": "size",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "hdcwcrcc3nur3f9yxlxfyh": {
+    "old": "max_limit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ifkrv6r4ost3rv7te265jw": {
+    "old": "limit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "hgreuqzl979axoh1q2gn6a": {
+    "old": "offset",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "u8z3vc1f09atrkmrkdupuv": {
+    "old": "data",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "pxdpi0vxjuzzx7ffy3wj2k": {
+    "old": "truncated",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ma0qpbb8xnjoe8z4cmxucj": {
+    "old": "total",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "s9jhgicbkcun2113emmai5": {
+    "old": "last",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "szr7a57ei2c038cxahuva6": {
+    "old": "seen_any",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "w84bas9opo9w9i843xnaw0": {
+    "old": "fh",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "pu2f5k51h5itd4dreo0n5t": {
+    "old": "chunk",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "jd1kyl9kiupik5ofji000i": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ivk31eanihhigh5g2vnmxu": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "vmgi29abksewzx00inuvfq": {
+    "old": "_",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "uuwomsxxf38p8qrkwx1gh3": {
+    "old": "text",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "jvuvjbpjxd56n2g131zkt1": {
+    "old": "lines",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "v1muzfbbvlvrigf0fccd6h": {
+    "old": "best_delim",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "sovef4vomiazyxaikg8cua": {
+    "old": "best_score",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "gvd8bicb8n2odmvu9ktrxg": {
+    "old": "delim",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "idq3gp6m9t36n2vo88al6z": {
+    "old": "counts",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "eowg0msbm8jbb0xpp7pz1d": {
+    "old": "mode",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "hvpjpbn825m6wrvih9h1p9": {
+    "old": "score",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "hl6ru55c5ghkyeyjrpygdf": {
+    "old": "fields",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "hrcjjtcvo2ptxeix8y2fju": {
+    "old": "has_header",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "xyq9a8smfhbfo3sw2p8uvk": {
+    "old": "first",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "nk8tuqi858ij3zkyjjogp4": {
+    "old": "second",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "kr7uk4ngrie6iz2yskfdzl": {
+    "old": "ts_format",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "zfn0bb8p4imqvw78psmf66": {
+    "old": "name",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "d3nw6nn0b62e7y97mc39ah": {
+    "old": "pattern",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "gtq0w85u2a5qw2jjp4no7n": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "x9ox7f7ymt8bmhpg80qx7c": {
+    "old": "content",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "nq0cgwf3sp5rarj4isi9zr": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "pcslk4eieme34z5pco3l6z": {
+    "old": "text",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "piculw0kpudow3fxutqmyz": {
+    "old": "old",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "o7ra2xno0z1wxx5uvtmv34": {
+    "old": "new",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "vquvn4svr241dx7pmh8cs6": {
+    "old": "count",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "uzv9afojc40vyfv4n8gnat": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "kqkud2h50pyhj3absfxl2r": {
+    "old": "entries",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "llkd1esq7clywwe1mb7abi": {
+    "old": "child",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "jospfamld0c2gdupa634j1": {
+    "old": "st",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "z06raed1xpe171qfqv4h44": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "fer5u8bnoe5lyogzbp0zlh": {
+    "old": "src",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "bq0ovrqik3twk4s142scg9": {
+    "old": "dst",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "jovh668yix68nctkmb8i11": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "sctrasdb2w2tmdic3hrwgb": {
+    "old": "root",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ghct4p8ypzro58vqj777ym": {
+    "old": "pattern",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ty4ru18uewk2e3c3dngxpy": {
+    "old": "limit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "dmk0a8zqjk6gouhoduo2fa": {
+    "old": "results",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "vsjr3l6bumsheqdrfcpcgv": {
+    "old": "hit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ppexe97jxa14ypm83wf1wb": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "xjmqwn7rasptqsdww7hr1l": {
+    "old": "st",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "adpofe1rq4o6evx9hfvdkx": {
+    "old": "pattern",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "tyb54noaf9lsc22r315zcy": {
+    "old": "command",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "c07cyd00yhqcgiz1plscxj": {
+    "old": "cwd",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "mmxdsug02m9cvdog5adj8d": {
+    "old": "timeout",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "foaqqk1c708qpgwc75f5d0": {
+    "old": "proc",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "benj54f0j4der8ehwx8jj9": {
+    "old": "out",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "xfx0589lts3r1ugpe2eg3a": {
+    "old": "t1",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "tcadblys4qg8nfkd1r0tlr": {
+    "old": "err",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "twil0elkkvtvzjfmqw3h9o": {
+    "old": "t2",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ds4101n5jd97jpraw44pbe": {
+    "old": "procs",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "cvfqg5qd77ozg5jx39waxi": {
+    "old": "proc_root",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "zls9jii44aloypg3z01eok": {
+    "old": "pid_dir",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "gl6kg10w81142etmeejuav": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ilxhqmewa3dm2mzmq808k7": {
+    "old": "left",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "bjvz2debx3mcymk880vqhm": {
+    "old": "_",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "seuiqboi5warqfptk0wy3y": {
+    "old": "rest",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "mof52nlc09zh0520h8ijag": {
+    "old": "name",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "vuqbbbpuhp611y70k3jc3m": {
+    "old": "fields",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "qcnyhcucedhmozxiddbpga": {
+    "old": "state",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "u58jlcumj4nuch6kwk0y9a": {
+    "old": "ppid",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "a7fgz3skk75gtghe08ljm2": {
+    "old": "cmdline",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "wbgk46c8ytfv0g501yh23t": {
+    "old": "out",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ao0fa2ulike1r570exajfe": {
+    "old": "line",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "n13qb0ms4f48ekac4d96a2": {
+    "old": "parts",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "dn1s3b3gx81lftjrd0elol": {
+    "old": "pid",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "zeos50iasuucl022nn2uhl": {
+    "old": "signame",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "x980nt7op19coo0kd5e77f": {
+    "old": "signum",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "wpk09sqd17uiwg0b8n8vb6": {
+    "old": "system_root",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "izz7pfy7r7jtx3jowuurv7": {
+    "old": "targets",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "z8n2gw24ydp98q9f2f8xsn": {
+    "old": "user_temp",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "u2k1zitow0rw60dtp48gxp": {
+    "old": "dry_run",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "x0gah8ad4clpwvdhw5rfqw": {
+    "old": "raw_targets",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "yyks1xohroo0d75qg1433c": {
+    "old": "report",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "b36k3x28r5j8scyadgsyhu": {
+    "old": "total",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "xchya5h39b5dhszw2ravw9": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "qijax49okh1oq95uf35p1i": {
+    "old": "entry",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "i2d7ydpbpehrn18f0oxcgo": {
+    "old": "root",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "j9gge40b2ycok8i855ypi9": {
+    "old": "dirpath",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "mnijnsfyk0ly7z9ndnwmky": {
+    "old": "_dirnames",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "fn5yyxn9pzg4rbnmvzb9ar": {
+    "old": "filenames",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "cyvbmo7z0bv4bmbzcdueky": {
+    "old": "name",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "nrkhsvdbjsbnyx3zprbe4h": {
+    "old": "fp",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "h97hlep7xaidj3x1n5nu0a": {
+    "old": "size",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "h5lsvvh0jactn00eu43k25": {
+    "old": "key",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "l6475z8m2ca5xlgkq52b88": {
+    "old": "db",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "upq3agif714ieojpn01ges": {
+    "old": "exc",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "y3g4s2xbps43yzzynzudvy": {
+    "old": "raw_paths",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "fu3ecfbmneehwc4q6dew5c": {
+    "old": "index_path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "d7mdggg01f1j34c28ti1iz": {
+    "old": "limit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "docc7k9ek09l95dgejf4ln": {
+    "old": "targets",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "qzx0aiyu1cek8ou499kgv5": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "tfnawfohg7nrhl0s8o41cu": {
+    "old": "base",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "k3hu4im3d69aospa5win8z": {
+    "old": "dirpath",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "l64595td63hb9l8be4zb5b": {
+    "old": "_dirs",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "s7nieknkqfvzd8ohxaqtsw": {
+    "old": "filenames",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "k5cagkvdpxxjtwbgqp9s3k": {
+    "old": "name",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "k6i6g4w0tfskwphbrdgg8t": {
+    "old": "files",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "udotlor6dp6x8vi9t0d1xx": {
+    "old": "skipped_binary",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "lvsf8m1tpqret0e3cx2aas": {
+    "old": "skipped_errors",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "eqcma92dq1dnj9g9ehbw7x": {
+    "old": "bytes_indexed",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "z1xa383ja16o2rt9tmaj6x": {
+    "old": "db",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "yuw2shhc1kahce8ox04zfy": {
+    "old": "t",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "oqbil3hhp35qlb0cxeib0r": {
+    "old": "fh",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "h4tcj9tvfwjyrz1u9e1cdk": {
+    "old": "head",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "o4zu58acq0k0umzqp7afjw": {
+    "old": "data",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "pxpxxj3v50ebrm5514q73l": {
+    "old": "_truncated",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "f5merby6t6ottd12jcs8ul": {
+    "old": "query",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "kj8t33h91eu3gy816pcbin": {
+    "old": "limit",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "e45skd1vzxoqj7zavyu99c": {
+    "old": "index_path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "rhaoxf6vs9bln1zog7whlo": {
+    "old": "db",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ac90wxazkz39w7j6u3om5j": {
+    "old": "rows",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "q1onxxrres6ttx3r6jg372": {
+    "old": "exc",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "hsb8uumwdedtu3z54qh1qn": {
+    "old": "blob",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ps2q6dybieufke8vqmdggh": {
+    "old": "proc",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "yvwftt8vm42gk1zwohr2vn": {
+    "old": "detail",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "uj8r0ikpof7p7emjragb2j": {
+    "old": "ihdr_len",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "kxp0ac1rj1aleiks8cq41m": {
+    "old": "width",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "dzqrq506p6bpmwozedpuya": {
+    "old": "height",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "w7p7lxmqh7nsxjj4wnmb9j": {
+    "old": "scale",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "r44w76acz3z2aacdkgsbvq": {
+    "old": "compress",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "rljb6o854ry09syymj5bha": {
+    "old": "ps",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "hkdf66x00kbv40ihxj9007": {
+    "old": "b64",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "u259bswluc0phfdl2fif8z": {
+    "old": "png",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "kmcn75c9bahvspsc07l7s9": {
+    "old": "meta",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "yr0dbt5pqdcaq430moy3u5": {
+    "old": "result",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "b9l3jqvc0x48mhvg2mxvng": {
+    "old": "zipped",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "nw5m766lcnzgysz6ydti1k": {
+    "old": "maximum",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ljuncghue6kyqfzxmb83kj": {
+    "old": "ps",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "p3n2fc8u10o3yyh9ron9nh": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "lyt23r62xyjwoflzvtry1i": {
+    "old": "elements",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "qabj7npsrx6hjksrmzflg3": {
+    "old": "x",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "duqjswmwcaqz3i3k7i33ce": {
+    "old": "y",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "oli9451uwotpgy77rp29ob": {
+    "old": "button",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "aarxdxe4rqb21d5vr0gkjr": {
+    "old": "clicks",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "b96cdm7raxpshrcplds57f": {
+    "old": "down",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "rvg2q9jjortf4lkkvxgmvt": {
+    "old": "up",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "l339skmygohcmcwdtve757": {
+    "old": "ps",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "yrlmh7ncgpxdwptf2iuov8": {
+    "old": "text",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "pxod1yk5wyd9is3v13wp6q": {
+    "old": "ps",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "p5link628nptv9xqwdj12c": {
+    "old": "key",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "e1o6cf2vtcdy7xycu2pm57": {
+    "old": "code",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "er7b1kpy4ftukti43fs50l": {
+    "old": "ps",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "egcbidmepzrf36slb1v03q": {
+    "old": "tmpl_b64",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "vy58o89em3uuxs9kzvw033": {
+    "old": "downscale",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "o2y84yevnsoc0a28cjemhk": {
+    "old": "shot_b64",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "vxies3xhoqz8f1p3eajnjn": {
+    "old": "ps",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "lykttu1ep61k3r6xnzgyb8": {
+    "old": "raw",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ahf6mgvdkf956nocbwttwo": {
+    "old": "x",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "hjjgxabcox6s5veb2l8z3p": {
+    "old": "y",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "izhu3m0zrodcp5ue7cbfzm": {
+    "old": "score",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "au3ykh275ujndzdsy9xbml": {
+    "old": "method",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "wkjr0a20luaw976tpyn6sc": {
+    "old": "params",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "k4ts3w224krntjwrx4d4hw": {
+    "old": "is_notification",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "sd9ms5eodic3blbo5heojw": {
+    "old": "id_",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "q8zabrwryb3oe01b20h1k2": {
+    "old": "specs",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "bvw48ivep2uqgrx505ld6f": {
+    "old": "name",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "s4th61cf9qwyjgqt6oqeu4": {
+    "old": "arguments",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ra2o233fh0xvvkzjltfetx": {
+    "old": "handler",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "obn2b7x7x29irsbkudz77b": {
+    "old": "out",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "g8pz5s2iogpldy0whitvk3": {
+    "old": "exc",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "n3jxo4hu4d0mhkxxy9kntb": {
+    "old": "line",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "a73iim17fgsi7fefgkm3xl": {
+    "old": "msg",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "noys55s3kcuhh8qbowtmbj": {
+    "old": "response",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "jzstzem0gpj2boccll87pg": {
+    "old": "_",
+    "file": "dvfru5d7epa1dcq4iov6hs/l27goehokaj0s0ywrugjae.py",
+    "kind": "local"
+   },
+   "ltg0w3hsmq30c3pkdg8gjb": {
+    "old": "t",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "bilctqkhxm8zp735htiqdq": {
+    "old": "e",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "lqvyn8itjvz2znuhzwfhlg": {
+    "old": "l",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "vqedwmlf4rrbujnfnxs640": {
+    "old": "e",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "sbni4i6d0ibt5qz12a37th": {
+    "old": "p",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "mq6p26vm0ohe0kgxxhrwhy": {
+    "old": "t",
+    "file": "dvfru5d7epa1dcq4iov6hs/phn6u3340asht9e94ti896.py",
+    "kind": "local"
+   },
+   "fefv44qo9iy77uz59tqs1i": {
+    "old": "t",
+    "file": "hr67y7j3bfdtjvi4vys6dj.py",
+    "kind": "local"
+   },
+   "kwnrnc11bzquqlpa76pax6": {
+    "old": "l",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "zyil609tc6l3gwzmcpjyh5": {
+    "old": "k",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "bshi4vax063suq8lem3vy2": {
+    "old": "v",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "s6dddcbkbj4543an8yxqrj": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "cvh36vbdpwf4jxeug2rqxd": {
+    "old": "n",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ynhm57iltlugw7tpbr7x65": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "thdyosk2mxzzld584rn8g4": {
+    "old": "r",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "lu655bkmmw6frtmwrzdiwu": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ovgba40yoye407alfhb8vj": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "mcq4e9z4zhs32rlqfpg4wt": {
+    "old": "p",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "c22o62ut16odjsg9k0fb2a": {
+    "old": "f",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "rklr3lvkanbd47tx8af5fd": {
+    "old": "l",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "rzgz9da2zyqwn1otf9klr2": {
+    "old": "l",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "cocovibg97uh8r7qowdass": {
+    "old": "f",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "ulklheklu9w4ajq8gju0nw": {
+    "old": "f",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "p046mah7yx5w0b8zvenw63": {
+    "old": "f",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "w2yp1gjlhcmi3edg9kz06r": {
+    "old": "l",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "c7ax9ygfrb1y1zcn89657f": {
+    "old": "l",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "m3ffmsf6qtnejsbky73efz": {
+    "old": "c",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "qb1k8bhl7jjjh3gf9f3iwy": {
+    "old": "x",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "param"
+   },
+   "ptkplssypitapzwcofhzso": {
+    "old": "path",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "p630m7ns4ii2nw4n0kono4": {
+    "old": "snip",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "bdfctnhrcdlm2b5ez9ao2n": {
+    "old": "c",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "dq6dq3d1su3hwel6f23o24": {
+    "old": "t",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   },
+   "a37l44ss9s32flh1fh4tfe": {
+    "old": "t",
+    "file": "vmmaieuzwn7j9llhbznbgs.py",
+    "kind": "local"
+   }
+  }
+ },
+ "_meta": {
+  "date": "2026-10-23",
+  "repo": "the-forbidden-knowledge/muse-commander-mcp",
+  "total": 749,
+  "note": "privado - nunca commitar"
+ }
+}

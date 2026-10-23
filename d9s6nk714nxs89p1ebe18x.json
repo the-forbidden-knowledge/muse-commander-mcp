@@ -1,0 +1,1 @@
+{"_comment":"Padrao: permissoes totais (allowed_directories = raiz, sem denylist). Restrinja os campos abaixo apenas se quiser limitar o servidor.","allowed_directories":["/"],"audit_log":"~/.local/share/muse-terminal-commander/audit.log","blocked_command_patterns":[],"blocked_paths":[],"command_timeout_seconds":120,"max_read_bytes":1048576}

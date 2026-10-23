@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "project_version": "6.6.6",
+  "policy": {
+    "windows_min_build": "10.0.19044.0",
+    "erlang_otp_release": "29",
+    "elixir_version": "1.20.3",
+    "elixir_distribution": "elixir-otp-28.zip",
+    "webview2_sdk_version": "1.0.4191.47",
+    "msvc_version_prefix": "19.44",
+    "cmake_minimum": "3.20.0",
+    "elixir_compiled_with_otp": "28",
+    "runtime_otp_compatibility": [
+      "28",
+      "29"
+    ],
+    "msvc_toolset_prefix": "14.44",
+    "node_minimum": "20.18.0"
+  },
+  "artifacts": [
+    {
+      "name": "Elixir 1.20.3 OTP-28 archive",
+      "source": "https://github.com/elixir-lang/elixir/releases/download/v1.20.3/elixir-otp-28.zip",
+      "sha256": "8100B91201DDF75F760954E570069B7D43A1C27A3099D65E27A1CD9D539AE51B"
+    },
+    {
+      "name": "Microsoft WebView2 SDK 1.0.4191.47",
+      "source": "https://api.nuget.org/v3-flatcontainer/microsoft.web.webview2/1.0.4191.47/microsoft.web.webview2.1.0.4191.47.nupkg",
+      "sha256": "F492BBF547D0DA329553B6727435B677579B1E9F91CC9E4A1AD029366D5F23D0"
+    }
+  ]
+}
